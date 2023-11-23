@@ -19,5 +19,5 @@ Este repositório contém uma função em JavaScript que calcula o somatório de
 4. Para testar a função com um número específico (substitua NUMERO_AQUI pelo número desejado).
 5. Execute o arquivo index.js com o comando: node index.js
 
-## Autor
+### Autor
 Willian Giovanini Dei Tosi
